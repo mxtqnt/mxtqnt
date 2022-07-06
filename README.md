@@ -1,4 +1,8 @@
 ### Olá, seja bem vinde!
+
+Maior parte dos projetos fica no git da empresa então aqui tem muito pouco hihi :)
+
+
 <div align="center">
   <a href="https://github.com/mxtqnt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mxtqn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
