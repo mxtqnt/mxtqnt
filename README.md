@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [www.mxtqnt.dev](www.mxtqnt.dev)
+- 👨‍💻 All of my projects are available at [www.anamisque.dev.br](www.anamisque.dev.br)
 
 - 📫 How to reach me **contato@anamisque.dev.br**
 
