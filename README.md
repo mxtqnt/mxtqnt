@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Ana Misque</h1>
 <h3 align="center">Computer Science student at the IFG - Campus Anápolis, passionate about computer vision</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at (www.anamisque.dev.br)
 
 - 📫 How to reach me **contato@anamisque.dev.br**
