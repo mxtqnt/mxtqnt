@@ -1,17 +1,40 @@
-<h1 align="center">Hi, I'm Ana Misque</h1>
-<h3 align="center">Computer Science student at the IFG - Campus Anápolis, passionate about computer vision</h3>
+### Olá, meu nome é Ana Carolina!
+<p align="left"> <!-- Python --> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/> <!-- C --> <img height="24" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/> <!-- Arduino --> <img height="24" src="https://olimex.wordpress.com/wp-content/uploads/2017/06/arduino-logo-circle-thumb.png?w=584" alt="Arduino"/> <!-- Raspberry Pi --> <img height="24" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/640px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi"/> <!-- PostgreSQL --> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/> </p>
 
-- 👨‍💻 All of my projects are available at (www.anamisque.dev.br)
+Graduanda em **Ciência da Computação (IFG)**, com 4 anos de experiência em Python, Visão Computacional, IoT e Eletrônica. Atuo como **instrutora de computação** e **robótica** no IFG (Prefeitura de Anápolis) e na UEG (Laboratório Start). 
 
-- 📫 How to reach me **contato@anamisque.dev.br**
-- 
-<h3 align="left">Connect with me:</h3>
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="64px" width="64px" alt="Prefeitura de Anápolis" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8oaXAZPylUiuDmr6NlYG_hDGIiHLas3nN-Q&s"/>](https://www.anapolis.go.gov.br/)
+**Instrutora de Informática — Prefeitura de Anápolis**  <br/>
+Jun/2025 – Atual · Meio Período <br/>
+Ministração de aulas no curso de Informática Básica, com foco em inclusão digital.
+<br/>
+<br/>
+[<img align="left" height="64px" width="64px" alt="Laboratórios Start IFG" src="https://github.com/mxtqnt/Rob-tica---Alunos/blob/main/Untitled%20design.png?raw=true"/>](https://ifg.edu.br/)
+**Instrutora de Robótica — Laboratórios Start IFG** <br/>
+Nov/2024 - Atual · Meio Período <br/>
+Ensino de computação básica, eletrônica e microcontroladores para estudantes de 8 a 20 anos.
+<br/>
+<br/>
+[<img align="left" height="64px" width="64px" alt="Café Rancheiro" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcw0LTu_pdu2lUO_GpXzzphYyRiEOdKexZRA&s"/>](https://www.linkedin.com/company/cafe-rancheiro/)
+**Assistente de Sistemas / Estagiária em Automação Industrial — Café Rancheiro**  
+Jan/2021 – Nov/2024  <br/>
+Projetos com OpenCV, IoT, Raspberry Pi, Python, Arduino, PostgreSQL, desenvolvimento web e suporte técnico.
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ana-misque-569019222/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 <p align="left">
-<a href="https://www.linkedin.com/in/ana-misque-569019222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-carolina-569019222/" height="30" width="40" /></a>
+  <a href="mailto:contato@anamisque.dev.br" title="E-mail Profissional">
+    <img src="https://img.shields.io/badge/-contato@anamisque.dev.br-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=gmail&logoColor=262626&color=FFFFFF&link=mailto:contato@anamisque.dev.br" alt="Email Profissional"/>
+  </a>
+  <a href="mailto:anamisque.comp@gmail.com" title="Gmail Pessoal">
+    <img src="https://img.shields.io/badge/-anamisque.comp@gmail.com-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=gmail&logoColor=262626&color=FFFFFF&link=mailto:anamisque.comp@gmail.com" alt="Gmail Pessoal"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ana-misque-569019222" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=linkedin&logoColor=262626&color=FFFFFF&link=https://www.linkedin.com/in/ana-misque-569019222" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/anamisque" title="Telegram">
+    <img src="https://img.shields.io/badge/-Telegram-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=telegram&logoColor=262626&color=FFFFFF&link=https://t.me/anamisque" alt="Telegram"/>
+  </a> 
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-
