@@ -1,7 +1,7 @@
 ### Olá, meu nome é Ana Carolina!
 <p align="left"> <!-- Python --> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/> <!-- C --> <img height="24" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/> <!-- Arduino --> <img height="24" src="https://olimex.wordpress.com/wp-content/uploads/2017/06/arduino-logo-circle-thumb.png?w=584" alt="Arduino"/> <!-- Raspberry Pi --> <img height="24" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/640px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi"/> <!-- PostgreSQL --> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/> </p>
 
-Graduanda em **Ciência da Computação (IFG)**, com 4 anos de experiência em Python, Visão Computacional, IoT e Eletrônica. Atuo como **instrutora de computação** e **robótica** no IFG (Prefeitura de Anápolis) e na UEG (Laboratório Start). 
+Graduanda em **Ciência da Computação (IFG)**, com 5 anos de experiência em Python, Visão Computacional, IoT e Eletrônica. Atuo como **instrutora de computação** e **robótica** no IFG (Prefeitura de Anápolis) e na UEG (Laboratório Start). 
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
