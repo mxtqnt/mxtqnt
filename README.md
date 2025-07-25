@@ -38,3 +38,5 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ana-misque-5690
     <img src="https://img.shields.io/badge/-Telegram-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=telegram&logoColor=262626&color=FFFFFF&link=https://t.me/anamisque" alt="Telegram"/>
   </a> 
 </p>
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
