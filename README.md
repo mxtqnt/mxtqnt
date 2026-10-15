@@ -1,6 +1,6 @@
 <div align="left">
   
-<code>&mdash;Cientista da Computação ★ </code>
+<code>★ Cientista da Computação ★ </code>
 <h1>Ana Silva</h1>
 <p>Ana Misque</p>
 <p>
