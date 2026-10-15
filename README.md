@@ -1,40 +1,64 @@
-### Olá, meu nome é Ana Carolina!
-<p align="left"> <!-- Python --> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/> <!-- C --> <img height="24" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/> <!-- Arduino --> <img height="24" src="https://olimex.wordpress.com/wp-content/uploads/2017/06/arduino-logo-circle-thumb.png?w=584" alt="Arduino"/> <!-- Raspberry Pi --> <img height="24" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/640px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi"/> <!-- PostgreSQL --> <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/> </p>
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td width="65%" valign="top">
+      <code>&mdash; CIENTISTA DA COMPUTAÇÃO</code>
+      <h1>Ana Silva</h1>
+      <p>Cientista da Computação com sólida trajetória integrando Pesquisa e Desenvolvimento (P&D), Visão Computacional, Inteligência Artificial, Sistemas Embarcados e Educação Tecnológica. Atua como Coordenadora Local de Laboratórios de Robótica/TI (S.T.A.R.T.) e Professora no SENAI.</p>
+      
+      <p>
+        <img src="https://img.shields.io/badge/Visão_Computacional-2B2B2B?style=flat-square&color=2B2B2B" alt="Visão Computacional"/>
+        <img src="https://img.shields.io/badge/OpenCV_·_Python_·_C++-2B2B2B?style=flat-square&color=2B2B2B" alt="OpenCV · Python · C++"/>
+        <img src="https://img.shields.io/badge/Desenvolvimento_Full--Stack-2B2B2B?style=flat-square&color=2B2B2B" alt="Desenvolvimento Full-Stack"/>
+        <img src="https://img.shields.io/badge/IoT-2B2B2B?style=flat-square&color=2B2B2B" alt="IoT"/>
+        <img src="https://img.shields.io/badge/Educação_Tecnológica-2B2B2B?style=flat-square&color=2B2B2B" alt="Educação Tecnológica"/>
+      </p>
 
-Graduanda em **Ciência da Computação (IFG)**, com 5 anos de experiência em Python, Visão Computacional, IoT e Eletrônica. Atuo como **instrutora de computação** e **robótica** no IFG (Prefeitura de Anápolis) e na UEG (Laboratório Start). 
+      <p>
+        <a href="https://github.com/mxtqnt?tab=repositories">
+          <img src="https://img.shields.io/badge/Ver_Projetos-333333?style=for-the-badge&color=333333" alt="Ver Projetos"/>
+        </a>
+        <a href="mailto:contato@anamisque.dev.br">
+          <img src="https://img.shields.io/badge/Entrar_em_Contato-111111?style=for-the-badge&color=111111" alt="Entrar em Contato"/>
+        </a>
+      </p>
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+      <p>
+        <a href="https://github.com/mxtqnt"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=fff&color=111111" alt="GitHub"/></a>
+        <a href="https://www.linkedin.com/in/ana-silva-ana-misque-569019222"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=fff&color=111111" alt="LinkedIn"/></a>
+        <a href="https://t.me/anamisque"><img src="https://img.shields.io/badge/Telegram-111111?style=flat-square&logo=telegram&logoColor=fff&color=111111" alt="Telegram"/></a>
+      </p>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <!-- Substitua a URL abaixo pelo link direto da foto utilizada no seu portfólio -->
+      <img src="https://via.placeholder.com/350x400/111111/FFFFFF?text=Sua+Foto+Aqui" width="300" style="border-radius: 15px;" alt="Ana Silva"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 💼 Experiência Recente
+
+[<img align="left" height="64px" width="64px" alt="SENAI" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SENAI_São_Paulo_logo.png/600px-SENAI_São_Paulo_logo.png"/>](https://senaigoias.com.br/)
+**Professora de Informática / TI — Faculdade SENAI Roberto Mange** <br/>
+Ago/2026 – Presente <br/>
+Docente responsável pelas aulas dos cursos EAD do Técnico em Informática para Internet. Ensino de Lógica de Programação, Fundamentos de Web Design, Interface Web, HTML5, CSS3, JavaScript e testes.
+<br/><br/>
+
+[<img align="left" height="64px" width="64px" alt="FUNTEC GO" src="https://github.com/mxtqnt/Rob-tica---Alunos/blob/main/Untitled%20design.png?raw=true"/>](https://funtec.go.gov.br/)
+**Coordenadora Local (S.T.A.R.T.) & Instrutora Técnica de Robótica — FUNTEC GO** <br/>
+Nov/2024 - Presente <br/>
+Gestão pedagógica, técnica e administrativa de instrutores e turmas (até 400 alunos por ciclo). Ensino prático de computação básica, eletrônica e programação de microcontroladores (Arduino/C++).
+<br/><br/>
 
 [<img align="left" height="64px" width="64px" alt="Prefeitura de Anápolis" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8oaXAZPylUiuDmr6NlYG_hDGIiHLas3nN-Q&s"/>](https://www.anapolis.go.gov.br/)
-**Instrutora de Informática — Prefeitura de Anápolis**  <br/>
-Jun/2025 – Atual · Meio Período <br/>
-Ministração de aulas no curso de Informática Básica, com foco em inclusão digital.
-<br/>
-<br/>
-[<img align="left" height="64px" width="64px" alt="Laboratórios Start IFG" src="https://github.com/mxtqnt/Rob-tica---Alunos/blob/main/Untitled%20design.png?raw=true"/>](https://ifg.edu.br/)
-**Instrutora de Robótica — Laboratórios Start IFG** <br/>
-Nov/2024 - Atual · Meio Período <br/>
-Ensino de computação básica, eletrônica e microcontroladores para estudantes de 8 a 20 anos.
-<br/>
-<br/>
-[<img align="left" height="64px" width="64px" alt="Café Rancheiro" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcw0LTu_pdu2lUO_GpXzzphYyRiEOdKexZRA&s"/>](https://www.linkedin.com/company/cafe-rancheiro/)
-**Assistente de Sistemas / Estagiária em Automação Industrial — Café Rancheiro**  
-Jan/2021 – Nov/2024  <br/>
-Projetos com OpenCV, IoT, Raspberry Pi, Python, Arduino, PostgreSQL, desenvolvimento web e suporte técnico.
-<br/>
+**Instrutora de Informática — Prefeitura Municipal de Anápolis / IFG** <br/>
+Jun/2025 – Jul/2026 <br/>
+Aulas de informática básica para a comunidade externa no IFG, focadas em inclusão digital, pacote LibreOffice, Windows e navegação segura.
+<br/><br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/ana-misque-569019222/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-<p align="left">
-  <a href="mailto:contato@anamisque.dev.br" title="E-mail Profissional">
-    <img src="https://img.shields.io/badge/-contato@anamisque.dev.br-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=gmail&logoColor=262626&color=FFFFFF&link=mailto:contato@anamisque.dev.br" alt="Email Profissional"/>
-  </a>
-  <a href="mailto:anamisque.comp@gmail.com" title="Gmail Pessoal">
-    <img src="https://img.shields.io/badge/-anamisque.comp@gmail.com-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=gmail&logoColor=262626&color=FFFFFF&link=mailto:anamisque.comp@gmail.com" alt="Gmail Pessoal"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ana-misque-569019222" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=linkedin&logoColor=262626&color=FFFFFF&link=https://www.linkedin.com/in/ana-misque-569019222" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/anamisque" title="Telegram">
-    <img src="https://img.shields.io/badge/-Telegram-FFFFFF?style=flat-square&labelColor=FFFFFF&logo=telegram&logoColor=262626&color=FFFFFF&link=https://t.me/anamisque" alt="Telegram"/>
-  </a> 
-</p>
+[<img align="left" height="64px" width="64px" alt="Café Rancheiro" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcw0LTu_pdu2lUO_GpXzzphYyRiEOdKexZRA&s"/>](https://www.linkedin.com/company/cafe-rancheiro/)
+**Assistente de Sistemas & Automação Industrial — Rancheiro** <br/>
+Set/2021 – Nov/2024 <br/>
+Desenvolvimento web (React.js), aplicação de Visão Computacional (OpenCV/EasyOCR) e automação industrial com IoT (Raspberry Pi, Arduino, Python, PostgreSQL, Linux).
+<br/><br/>
