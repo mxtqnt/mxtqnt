@@ -18,6 +18,7 @@
 <p>
   <a href="https://anamisque.dev.br"><img src="https://img.shields.io/badge/Ver_Projetos-333333?style=for-the-badge&color=333333" alt="Ver Projetos"/></a>
   <a href="mailto:contato@anamisque.dev.br"><img src="https://img.shields.io/badge/Entrar_em_Contato-111111?style=for-the-badge&color=111111" alt="Entrar em Contato"/></a>
+  </br>
   contato@anamisque.dev.br
 </p>
 
